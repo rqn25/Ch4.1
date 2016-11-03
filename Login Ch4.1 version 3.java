@@ -5,7 +5,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.stage.Stage;
 
-public class Login extends Application {
+public class Loginx extends Application {
 	
 public enum AccountType {Administrator, Faculty, Staff, Student, Guest}
 	
