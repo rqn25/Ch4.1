@@ -18,7 +18,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class Login3 extends Application {
+public class Login extends Application {
 	
 	private int attempt = 0;
 	public enum AccountType {Administrator, Faculty, Staff, Student, Guest};
